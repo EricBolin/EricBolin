@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricBolin
 - 👀 I’m interested in ... the happiness of all mankind.
-- 🌱 I’m currently learning ... python!
+- 🌱 I’m currently trying to learn ...Rust 
 - 💞️ I’m looking to collaborate on ...Projects of all kinds!
 - 📫 How to reach me ... https://www.linkedin.com/in/eric-bolin-803656b0/
 
